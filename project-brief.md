@@ -7,7 +7,7 @@ Which settlements and populated areas in Bida LGA have the furthest distance to 
 ## The data I used
 - Ward boundaries
 Source: GRID3
-Link: https://data.grid3.org
+Link: https://data.grid3.org-GeoPackage-12 MB
 - Waste collection points
 Source: OpenStreetMap
 Link: https://www.openstreetmap.org
@@ -17,4 +17,4 @@ Extraction: QGIS QuickOSM
 Link: https://www.openstreetmap.org
 - Settlement extents
 Source: GRID3
-Link: https://data.grid3.org
+Link: https://data.grid3.org-GeoPackage-40 MB
