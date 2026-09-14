@@ -2,19 +2,31 @@
 
 ## The question
 
-Which settlements and populated areas in Bida LGA have the furthest distance to formal waste collection points, indicating potential gaps in waste collection coverage?
+Which settlements and populated areas in Bida LGA are furthest from formal waste collection points, indicating potential gaps in waste collection coverage?
 
-## The data I used
-- Ward boundaries
-Source: GRID3
+## Why it matters
+The local goverment authority and the community development groups (CBOs) will use the data for more sustainable infrastructure allocation.
+It will also help the LGA to see the need for reallocation of landuse, however, this issue is relevant to my work.
+
+## The data I need
+- Ward boundaries- GRID3 -https://data.grid3.org-GeoPackage-12 MB
+- Settlement extents- GRID3 - https://data.grid3.org-GeoPackage-40 MB
+- Waste collection points-OSM amenity points- https://www.openstreetmap.org
+- Road network-  OSM roads-https://www.openstreetmap.org
+
+## Where each dataset comes from
+Source: GRID3 settlement extents
 Link: https://data.grid3.org-GeoPackage-12 MB
-- Waste collection points
-Source: OpenStreetMap
+
+Source: GRID3 
+Link: https://data.grid3.org-GeoPackage-40 MB
+
+Source: OpenStreetMap, OSM amenity points
 Link: https://www.openstreetmap.org
-- Road network
-Source: OpenStreetMap
+
+Source: OpenStreetMap. OSM roads
 Extraction: QGIS QuickOSM
 Link: https://www.openstreetmap.org
-- Settlement extents
-Source: GRID3
-Link: https://data.grid3.org-GeoPackage-40 MB
+
+## What will I build
+I will build a map that updates every month, as well as a dashboard that an officer can open  and a service that indicate the right points of disposal to avoid health and environmental risk in the LGA.
