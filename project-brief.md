@@ -30,12 +30,4 @@ Watercourses
  Link : https://portal.opentopograpy.org
 
 ## What will I build
-I will build a map that update every month, as well as a dashboard that an officer can open and a service that indicate the potential points of flood to avoid health and environmental risk in the LGA
-
-
-
-
-
-
-
-I will build a map that updates every month, as well as a dashboard that an officer can open  and a service that indicate the right points of disposal to avoid health and environmental risk in the LGA.
+I will build a map that update every month, as well as a dashboard that an officer can open and a service that indicate the potential points of flood to avoid health and environmental risk in the LGA.
