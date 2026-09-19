@@ -1,12 +1,12 @@
-Waste Collection Accessibility Analysis — Bida LGA
+Flood Exposure Analysis — Bida LGA
 
 Project
 
-This project examines the spatial distribution of formal waste collection points and identifies populated areas in Bida LGA that are furthest from mapped waste collection services.
+This project examines the spatial distribution of settlement sitting on low-lying land that is near watercourses in Bida LGA.
 
 Spatial Question
 
-Which settlements and populated areas in Bida LGA have the furthest distance to formal waste collection points, indicating potential gaps in waste collection coverage?
+Which settlements in Bida LGA sit in low-lying land near watercourses?
 
 Study Area
 
@@ -18,28 +18,27 @@ Ward boundaries
 Source: GRID3
 Link: https://data.grid3.org
 
-Waste collection points
-Source: OpenStreetMap
-Link: https://www.openstreetmap.org
-
-Road network
-Source: OpenStreetMap
-Extraction: QGIS QuickOSM
-Link: https://www.openstreetmap.org
-
 Settlement extents
 Source: GRID3
 Link: https://data.grid3.org
+
+Watercourses  
+Source: OSM via QuickOSM - extracted for my LGA
+
+Elevation 
+Source: Copernicus DEM 30 m   
+Link: https://portal.opentopograpy.org
+
 
 Analysis
 
 The project will:
 
-- Map formal waste collection points within Bida LGA.
+- Map watercourses within Bida LGA.
 - Map populated settlement areas.
-- Measure the distance from populated areas to the nearest mapped waste collection point.
-- Identify areas with the furthest distance from waste collection services.
-- Highlight potential gaps in waste collection coverage.
+- Measure the distance from populated areas to the nearest mapped watercourses.
+- Identify areas sitting on low-lying land near watercourses.
+- Highlight potential risks in building close to waterways.
 
 Tools
 
