@@ -1,8 +1,10 @@
 Flood Exposure Analysis — Bida LGA
 
-Project
+My Geolab Dev Africa Project
 
 This project examines the spatial distribution of settlements sitting on low-lying land within 200m of a watercourse in Bida LGA.
+
+Built over twelve months with Geolab Dev Africa, Cohort One. See Project-brief.md for details.
 
 Spatial Question
 
