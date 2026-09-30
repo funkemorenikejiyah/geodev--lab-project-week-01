@@ -2,11 +2,11 @@ Flood Exposure Analysis — Bida LGA
 
 Project
 
-This project examines the spatial distribution of settlement sitting on low-lying land that is near watercourses in Bida LGA.
+This project examines the spatial distribution of settlements sitting on low-lying land within 200m of a watercourse in Bida LGA.
 
 Spatial Question
 
-Which settlements in Bida LGA sit in low-lying land near watercourses?
+Which settlements in Bida LGA sit in low-lying land within 200m of a watercourse?
 
 Study Area
 
