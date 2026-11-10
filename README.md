@@ -29,7 +29,7 @@ Source: OSM via QuickOSM - extracted for my LGA
 
 Elevation 
 Source: Copernicus DEM 30 m   
-Link: https://portal.opentopograpy.org
+Link: https://portal.opentopography.org
 
 
 Analysis
